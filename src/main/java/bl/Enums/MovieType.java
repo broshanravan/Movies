@@ -1,0 +1,25 @@
+package bl.Enums;
+
+public enum MovieType {
+	 unknown,
+	 Action,
+	 Adventure, 
+	 Animation,
+     Children,
+     Comedy,
+     Crime,
+     Documentary,
+     Drama,
+     Fantasy,
+     FilmNoir,
+     Horror,
+     Musical,
+     Mystery,
+     Romance,
+     SciFi,
+     Thriller,
+     War,
+     Western,
+     Short,
+     History,
+}
